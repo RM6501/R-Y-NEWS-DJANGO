@@ -13,8 +13,8 @@
 - About Me
   - 🌱 I’m currently learning M.E.R.N Stack 
   - 📫 How to reach us:
-  -  makwanarohan0@gmail.com 
-  -  daveyashrakesh@gmail.com
+   -  makwanarohan0@gmail.com 
+   -  daveyashrakesh@gmail.com
 
 
 

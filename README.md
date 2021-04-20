@@ -10,6 +10,17 @@
    - HTML 
    - CSS
 - Deployment:[R&Y News](https://r-y-news-ucoe.herokuapp.com/)
+  
+  ![desktop home](https://photos.app.goo.gl/mfPYs2m9LKGMePCk8)
+  
+  ![desktop footer](https://photos.app.goo.gl/NgGLS29F5dqfrTD19)
+  
+  ![tab home](https://photos.app.goo.gl/SvRBJXji79hd5omd8)
+  
+  ![phone home](https://photos.app.goo.gl/tNtvj2A6bWaTWJQr5)
+  
+  ![phone footer](https://photos.app.goo.gl/4T2XLThQRH4114AHA)
+  
 - About Me
   - 🌱 I’m currently learning M.E.R.N Stack 
   

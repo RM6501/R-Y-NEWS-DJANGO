@@ -13,13 +13,13 @@
   
   ![desktop home](https://github.com/RM6501/R-Y-NEWS-DJANGO/blob/01b5b7c68cc294ffdd94081effda8da85c3aa6b7/images/Desktop%20home.png)
   
-  ![desktop footer](https://photos.app.goo.gl/NgGLS29F5dqfrTD19)
+  ![desktop footer](https://github.com/RM6501/R-Y-NEWS-DJANGO/blob/7da638edd1aa6b4949298e4840fd20ccb1606862/images/Desktop%20footer.png)
   
-  ![tab home](https://photos.app.goo.gl/SvRBJXji79hd5omd8)
+  ![tab home](https://github.com/RM6501/R-Y-NEWS-DJANGO/blob/7da638edd1aa6b4949298e4840fd20ccb1606862/images/tab%20home.png)
   
-  ![phone home](https://photos.app.goo.gl/tNtvj2A6bWaTWJQr5)
+  ![phone home](https://github.com/RM6501/R-Y-NEWS-DJANGO/blob/7da638edd1aa6b4949298e4840fd20ccb1606862/images/phone-home.png)
   
-  ![phone footer](https://photos.app.goo.gl/4T2XLThQRH4114AHA)
+  ![phone footer](https://github.com/RM6501/R-Y-NEWS-DJANGO/blob/7da638edd1aa6b4949298e4840fd20ccb1606862/images/phone-foorter.png)
   
 - About Me
   - 🌱 I’m currently learning M.E.R.N Stack 

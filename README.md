@@ -11,7 +11,7 @@
    - CSS
 - Deployment:[R&Y News](https://r-y-news-ucoe.herokuapp.com/)
   
-  ![desktop home](images/Desktop home.png)
+  ![desktop home](https://github.com/RM6501/R-Y-NEWS-DJANGO/blob/01b5b7c68cc294ffdd94081effda8da85c3aa6b7/images/Desktop%20home.png)
   
   ![desktop footer](https://photos.app.goo.gl/NgGLS29F5dqfrTD19)
   
